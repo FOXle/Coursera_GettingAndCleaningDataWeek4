@@ -2,7 +2,7 @@
 The purpose of this project is to demonstrate my ability to collect, work with, and clean a data set.
 
 #### 1. Data
-- Raw data: collected data for the project
+- RawData.md: source of collected data for the project
 - Processed data: tidy data set as a result of run_analysis.R
 
 #### 2. R Code
@@ -12,7 +12,8 @@ The purpose of this project is to demonstrate my ability to collect, work with, 
 - README.md: this document
 - CodeBook.md: describing variables, the data and work conducted to clean up data
 
-
+<br>
+<br>
 
 R version 3.5.2 (2018-12-20) -- "Eggshell Igloo"
 Windows 10 Home 64Bit
