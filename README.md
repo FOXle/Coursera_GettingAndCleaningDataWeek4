@@ -15,5 +15,5 @@ The purpose of this project is to demonstrate my ability to collect, work with, 
 <br>
 <br>
 
-R version 3.5.2 (2018-12-20) -- "Eggshell Igloo"
+R version 3.5.2 (2018-12-20) -- "Eggshell Igloo"  <br>
 Windows 10 Home 64Bit
