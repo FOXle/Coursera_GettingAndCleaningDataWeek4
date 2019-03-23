@@ -8,6 +8,11 @@ The purpose of this project is to demonstrate my ability to collect, work with, 
 #### 2. R Code
 - run_analysis.R: processing the data to turn raw into tidy data
 
-#### 4. Documentation
-- README.md: details on the project
+#### 3. Documentation
+- README.md: this document
 - CodeBook.md: describing variables, the data and work conducted to clean up data
+
+
+
+R version 3.5.2 (2018-12-20) -- "Eggshell Igloo"
+Windows 10 Home 64Bit
