@@ -1,6 +1,6 @@
 ### Raw Data
 
-Raw data for the project
+Raw data for the project  <br>
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 Full description for the raw data at the site where the data was obtained
