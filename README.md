@@ -3,7 +3,7 @@ The purpose of this project is to demonstrate my ability to collect, work with, 
 
 #### 1. Data
 - `RawData.md` source of collected data for the project
-- `Processed data` tidy data set as a result of run_analysis.R
+- `ProcessedData.txt` tidy data set as a result of run_analysis.R
 
 #### 2. R Code
 - `run_analysis.R` processing the data to turn raw into tidy data
