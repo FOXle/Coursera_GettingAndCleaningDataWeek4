@@ -15,5 +15,14 @@ The purpose of this project is to demonstrate my ability to collect, work with, 
 <br>
 <br>
 
-R version 3.5.2 (2018-12-20) -- "Eggshell Igloo"  <br>
-Windows 10 Home 64Bit
+##### Session info by session_info()
+ setting  value   <br>                    
+ version  R version 3.5.2 (2018-12-20)  <br>
+ os       Windows >= 8 x64           <br>   
+ system   x86_64, mingw32       <br>      
+ ui       RStudio              <br>       
+ language (EN)                   <br>     
+ collate  German_Germany.1252      <br>   
+ ctype    German_Germany.1252       <br>  
+ tz       Europe/Berlin            <br>   
+ date     2019-03-24    <br>
