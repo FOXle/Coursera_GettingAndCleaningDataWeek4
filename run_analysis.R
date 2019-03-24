@@ -49,4 +49,4 @@ for (s in 1:numSubjects) {
     row = row+1
   }
 }
-write.csv(result, "ProcessedData.csv")
+write.table(result, "ProcessedData.txt", row.name=FALSE)
