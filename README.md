@@ -10,7 +10,7 @@ The purpose of this project is to demonstrate my ability to collect, work with, 
 
 #### 3. Documentation
 - `README.md` this document
-- `CodeBook.md` describing variables, the data and work conducted to clean up data
+- `CodeBook.md` describing variables and its values including recipe to go from raw to tidy data
 
 <br>
 <br>
